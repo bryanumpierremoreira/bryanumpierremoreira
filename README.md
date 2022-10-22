@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Bryan a Computer Engineering graduate student
 
 <!--
 **bryanumpierremoreira/bryanumpierremoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 | *Name / Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | C | C++, JS, Java |
+| **Languages(programming)** | Python | C, SQL | C++, JS, Java |
 | **Frameworks/Platforms** | Tensorflow | Git | Django |
 | **Languages(human)** | Portuguese | English | Spanish |
-| **Other interests** | Linux, Robotics | game development | Digital Privacy |
+| **Other interests** | Linux, Robotics, UX, UI | Game Development  | Woodwork |
