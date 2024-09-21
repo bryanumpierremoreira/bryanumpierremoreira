@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 | **Languages(programming)** | Python | C++, Cuda, SQL | JS, TS, Go |
 | **Frameworks/Platforms** | Tensorflow, Git, Flask | PyTorch, Django | Node |
 | **Languages(human)** | Portuguese | English | Spanish |
-| **Other interests** | Coding, Linux, Real-Time, Robotics, embedded systems | Game Development  | Woodwork |
+| **Other interests** | Coding, Linux, Real-Time Applications, Robotics, embedded systems | Game Development  | Woodwork |
